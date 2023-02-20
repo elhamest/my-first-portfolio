@@ -1,0 +1,4 @@
+picture size in pain: 950 * 750
+background color: 
+  --secondary-color: #f5f2fe;
+  /*rgb(245, 242, 254)*/
